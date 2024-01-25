@@ -7,17 +7,17 @@
 **[2023/01/15]** Slides for **Lecture 1 ~ 2** are uploaded. **Assignment 1** are uploaded.
 
 ## Contents
-- **1. Machine Learning and Multi-layer Perceptrons** - [Seongchan Kim](https://github.com/zheedong)
+- **1. Machine Learning and Multi-layer Perceptrons** - [Seongchan Kim](https://github.com/deep-overflow)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/1.%20Machine%20Learning%20and%20MLP.pdf)
   - [[videos]](https://youtu.be/_bJSMou8Uhg)
-- **2. Convolutional Neural Networks** - [Chaehyun Kim](https://github.com/zheedong)
-- [**Assignment #1 - Hello PyTorch, Hello CNN!**](https://github.com/AIKU-Official/1-hello-pytorch-hello-cnn-hijihyo)
-- **3. Recurrent Neural Networks** - [Jungkyu Park](https://github.com/mingsung-k)
-- **4. Techniques for Training Neural Networks** - [Seongchan Kim](https://github.com/mingsung-k)
-- **5. Attention Mechanism and Machine Translation** - [Seonghu Jeon](https://github.com/KyleBae1017)
+- **2. Convolutional Neural Networks** - [Chaehyun Kim](https://github.com/kchyun)
+- [**Assignment #1 - Hello PyTorch, Hello CNN!**](https://github.com/AIKU-Official/2024W-AIKU-D2D/tree/main/Assignments/1-hello-pytorch-hello-cnn)
+- **3. Recurrent Neural Networks** - [Jungkyu Park](https://github.com/juk1329)
+- **4. Techniques for Training Neural Networks** - [Seongchan Kim](https://github.com/deep-overflow)
+- **5. Attention Mechanism and Machine Translation** - [Seonghu Jeon](https://github.com/JeonSeongHu)
 - **6. Transformers** - [Jeeyoung Kim](https://github.com/deep-overflow)
 - [**Assignment #2 - TBD**](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/2.%20Transformer%2C%20Naver%20Movie%20Review%20Sentiment%20Analysis.ipynb)
-- **7. Applications of Transformers** - [Seonghu Jeon](https://github.com/KyleBae1017)
+- **7. Applications of Transformers** - [Seonghu Jeon](https://github.com/JeonSeongHu)
 - **8. CV Focus I : Object Detection** - [Minjae Kim]()
 - **9. CV Focus II : Image Generation** - [Siyoon Jin]()
 - [**Assignment #3 - TBD**](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/hw3_Object_Detection_with_YOLO_and_Faster_R_CNN.ipynb)
@@ -39,7 +39,7 @@ More information is available at [curriculum.pdf](curriculum_v2.pdf).
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
-Copyright &copy; 2023 [AIKU](https://github.com/AIKU-Official).
+Copyright &copy; 2024 [AIKU](https://github.com/AIKU-Official).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
