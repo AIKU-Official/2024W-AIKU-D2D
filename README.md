@@ -5,6 +5,7 @@
 
 ## Updates
 **[2023/01/15]** Slides for **Lecture 1 ~ 2** are uploaded. **Assignment 1** are uploaded.
+**[2023/01/25]** Slides for **Lecture 3 ~ 4** are uploaded. **Assignment 2** are uploaded.
 
 ## Contents
 - **1. Machine Learning and Multi-layer Perceptrons** - [Seongchan Kim](https://github.com/deep-overflow)
